@@ -2,8 +2,10 @@ body{
     background-color: black;
     color: white;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    text-align: center;
-}
+    text-align: center;}
+
+
+
 #relogio {
     font-size: 3rem;
     font-weight:bold;
